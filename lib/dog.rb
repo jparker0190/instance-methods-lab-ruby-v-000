@@ -12,6 +12,6 @@ class Person
     puts"Hello World!"
   end
   def walk
-    puts"This Person is walking"
+    puts"The Person is walking"
   end
 end
